@@ -1,6 +1,6 @@
 {
-    "name": "sunergix/entrust-permissions",
-    "description": "This package provides a flexible way to add Role-based Permissions to Laravel. Supports laravel 5|6",
+    "name": "erickcg/zizaco-entrust",
+    "description": "This fork should not be used by anyone. This package provides a flexible way to add Role-based Permissions to Laravel. Supports laravel 5|6",
     "keywords": ["laravel","illuminate","auth","roles","acl","permission"],
     "license": "MIT",
     "authors": [
